@@ -15,6 +15,8 @@ install.packages("RODBC")
 install.packages("reshape2")
 install.packages("xlsx")
 
+getwd()
+
 library(sqldf) #OK
 library(xlsx) #OK
 library(RODBC) #OK
