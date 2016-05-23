@@ -216,3 +216,6 @@ irismatchindiv <- sqldf("select * from irismatchsp, irisindivdata where irismatc
 #source() careful about recursion
 #DLL dynamic load libaray for integration of other languages
 
+#additional test line
+iris_all_new <- iris.all
+
